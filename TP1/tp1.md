@@ -20,3 +20,6 @@ Implication des utilisateurs, Conception itérative, Conception itérative, Obje
 
 ## Qu'est ce qu'un composant
 Sur figma, un composant est une sorte de variable permettant d'être réutilisée.
+
+## Mon projet Figma
+- voici mon Projet : https://www.figma.com/proto/zEGyueZ3pHtBi29HFVpMoF/Maquette?node-id=3-10&t=y8CYIIGqrFbtBlCF-1
